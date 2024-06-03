@@ -1,0 +1,5 @@
+Examine the part of the image at the label {label}. 
+Is there an object similar to a {name} at the same location as the magenta label {label}? 
+Do not make anything up that does not appear in the image. Explain your reasoning.
+Then output a '|' character. 
+Then, output either 'yes' or 'no' depending on your answer.

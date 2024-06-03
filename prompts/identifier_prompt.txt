@@ -1,0 +1,4 @@
+What objects are in this image? 
+Only include singular objects, not multiple.
+Output a single line of text, with a '|' character between each object.
+Example output: a lamp | red fur carpet | teraccota elongated vase

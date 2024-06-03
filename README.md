@@ -1,1 +1,1 @@
-# llm-item-finder
+# LLM Single-shot Object Detector
